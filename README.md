@@ -1,4 +1,10 @@
-### Hi there 👋
+### hi i'm celine :)
+I love to code and also paint, heres a colourful sample!
+![kindred jpg](https://github.com/cehune/cehune/assets/71574223/17f06ba6-dbb6-4508-80c9-47c63c5a5f22)
+
+Currently at Ford Motor Company as a Test Automation Developer Intern
+Most experiencd with Webdev and automation of course!
+Learning android, OS, and how to improve my art too
 
 <!--
 **cehune/cehune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
