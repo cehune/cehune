@@ -1,10 +1,12 @@
-### hi i'm celine :)
-I love to code and also paint, heres a colourful sample!
-![kindred jpg](https://github.com/cehune/cehune/assets/71574223/17f06ba6-dbb6-4508-80c9-47c63c5a5f22)
+### profile page for cehune
+Hi, I'm a current soft dev intern at General Motors Motor Company
+Prev 2x intern at Ford Motor Company
+Working on the WATcloud / Watonomous design team
 
-Currently at Ford Motor Company as a Test Automation Developer Intern
-Most experiencd with Webdev and automation of course!
-Learning android, OS, and how to improve my art too
+2nd year Mechatronics Engineering @ UWaterloo
+Hobbyist illustrator
+
+Experience in Python, C++, Java + some automations and QA tools - Jenkins, Selenium, Appium
 
 <!--
 **cehune/cehune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
