@@ -1,24 +1,14 @@
 ### profile page for cehune
-Hi, I'm a current soft dev intern at General Motors Motor Company
-Prev 2x intern at Ford Motor Company
-Working on the WATcloud / Watonomous design team
+Hi, I'm a current soft dev intern at [General Motors Motor Company](https://www.gm.com/)
+Prev 2x intern at [Ford Motor Company](https://www.ford.ca/)
+Working on the [WATcloud / Watonomous](https://cloud.watonomous.ca/) design team
 
-2nd year Mechatronics Engineering @ UWaterloo
-Hobbyist illustrator
+2nd year Mechatronics Engineering @ [UWaterloo](https://www.utoronto.ca/)
+Hobbyist illustrator - [See my artstation!](https://www.artstation.com/lostherons)
 
-Experience in Python, C++, Java + some automations and QA tools - Jenkins, Selenium, Appium
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,kotlin,jenkins)](https://skillicons.dev)
 
-<!--
-**cehune/cehune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## my favourite personal illsutrations
+![Untitled design(10)](https://github.com/user-attachments/assets/5a319d7f-c454-435b-9290-1b27ccaa2f2a)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
