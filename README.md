@@ -5,8 +5,8 @@ Hi, lets run down the stats!
 - Working on the [WATcloud / Watonomous](https://cloud.watonomous.ca/) design team
 
 ## Other fun facts
-2nd year Mechatronics Engineering @ [UWaterloo](https://www.utoronto.ca/)
-Hobbyist illustrator - [See my artstation!](https://www.artstation.com/lostherons)
+- 2nd year Mechatronics Engineering @ [UWaterloo](https://www.utoronto.ca/)
+- Hobbyist illustrator - [See my artstation!](https://www.artstation.com/lostherons)
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,kotlin,jenkins)](https://skillicons.dev)
 
