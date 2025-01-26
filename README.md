@@ -1,5 +1,4 @@
 ## Hello 👋👋
-Lets run down the stats:
 - I'm a current soft dev intern at [General Motors Motor Company](https://www.gm.com/)
 - Prev 2x intern at [Ford Motor Company](https://www.ford.ca/)
 - Working on the [WATcloud / Watonomous](https://cloud.watonomous.ca/) design team
