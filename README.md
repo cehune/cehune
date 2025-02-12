@@ -1,6 +1,6 @@
 ## Hello 👋👋
 
-I'm a Mechatronics Engineering student at the University of Waterloo. I really like graphics and infra. My work experience (see below) has mainly revolved around  Android. Hoping to switch to work with infra, lower level software, GPUS, or anything shaders / rendering. 
+I'm a Mechatronics Engineering student at the University of Waterloo. I really like graphics and infra. My work experience (see below) has mainly revolved around  Android. Hoping to switch to work with infra, lower level software, anything shaders / rendering. 
 
 - Prev 2x intern at  [General Motors Motor Company](https://www.gm.com/)
 - Prev 2x intern at [Ford Motor Company](https://www.ford.ca/)
