@@ -1,7 +1,8 @@
 ## Hello 👋👋
 
-I'm a Mechatronics Engineering student at the University of Waterloo. I really like graphics and infra. My work experience (see below) has mainly revolved around  Android. Hoping to switch to work with infra, lower level software, anything shaders / rendering. 
+I'm a Mechatronics Engineering student at the University of Waterloo. I really like graphics and SWE in general. See my work experience below, I am on my fifth co-op term currently as a SWE at Faire!
 
+- Current SWE at [Faire](https://www.faire.com/en-ca/). The future is local :>
 - Prev 2x intern at  [General Motors Motor Company](https://www.gm.com/)
 - Prev 2x intern at [Ford Motor Company](https://www.ford.ca/)
 - Working on the [WATcloud / Watonomous](https://cloud.watonomous.ca/) design team
