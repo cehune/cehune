@@ -1,11 +1,9 @@
 ## Hello 👋👋
 
-I'm a Mechatronics Engineering student at the University of Waterloo. I really like graphics and SWE in general. See my work experience below, I am on my fifth co-op term currently as a SWE at Faire!
-
-- Current SWE at [Faire](https://www.faire.com/en-ca/). The future is local :>
+I'm a Mechatronics Engineering student at the University of Waterloo. I really like graphics and SWE in general. See my work experience below, I am on my fifth co-op term currently at Faire Wholesale
+- Current SWE at [Faire](https://www.faire.com/en-ca/)
 - Prev 2x intern at  [General Motors Motor Company](https://www.gm.com/)
 - Prev 2x intern at [Ford Motor Company](https://www.ford.ca/)
-- Working on the [WATcloud / Watonomous](https://cloud.watonomous.ca/) design team
 
 ## Other interests
 - TKD
