@@ -1,6 +1,6 @@
-## Hello 👋👋
+## Hey I'm Mckale
 
-I'm a Mechatronics Engineering student at the University of Waterloo. I really like graphics and SWE in general. See my work experience below, I am on my fifth co-op term currently at Faire Wholesale
+UWaterloo Mechatronics Engineering 2027 || Interests in backend and graphics. 
 - Current SWE intern at [Faire](https://www.faire.com/en-ca/)
 - Prev 2x intern at  [General Motors Motor Company](https://www.gm.com/)
 - Prev 2x intern at [Ford Motor Company](https://www.ford.ca/)
@@ -10,7 +10,7 @@ I'm a Mechatronics Engineering student at the University of Waterloo. I really l
 - Piano
 - Illustration
 
-Find my artstation [here!](https://www.artstation.com/lostherons)
+See my artstation [here](https://www.artstation.com/lostherons)
 ![Untitled design(10)](https://github.com/user-attachments/assets/5a319d7f-c454-435b-9290-1b27ccaa2f2a)
 
 
