@@ -1,4 +1,4 @@
-## Hey I'm Mckale
+## Hi I'm Mckale!
 
 UWaterloo Mechatronics Engineering 2027 || Interests in backend and graphics. 
 - Current SWE intern at [Faire](https://www.faire.com/en-ca/)
