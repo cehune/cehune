@@ -1,6 +1,6 @@
 ## Hi I'm Mckale!
 
-UWaterloo Mechatronics Engineering 2027 || Interests in backend and graphics. 
+UWaterloo Mechatronics Engineering 2027 || Interests in backend and graphics
 - Current SWE intern at [Faire](https://www.faire.com/en-ca/)
 - Prev 2x intern at  [General Motors Motor Company](https://www.gm.com/)
 - Prev 2x intern at [Ford Motor Company](https://www.ford.ca/)
