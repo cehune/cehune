@@ -1,9 +1,10 @@
-## Hi I'm Mckale!
+## Hi I'm Mckale ( or Lan Ying ( meaning blue jade (an umbrella term for two different types of decorative rocks used for jewelry or ornaments)))
 
 UWaterloo Mechatronics Engineering 2027 || Interests in backend and graphics
+- Incoming SWE Intern at a Secret Startup :)
 - Prev SWE intern at [Faire](https://www.faire.com/en-ca/) working on backend engineering for the Relationship Growth Team
-- Prev 2x intern at  [General Motors Motor Company](https://www.gm.com/) working on Android for the Radio / Media Infotainment Apps Teams
-- Prev 2x intern at [Ford Motor Company](https://www.ford.ca/) working on Automation for the Voice Services Team
+- Prev 2x SWE intern at  [General Motors Motor Company](https://www.gm.com/) working on Android for the Radio / Media Infotainment Apps Teams
+- Prev 2x Automation intern at [Ford Motor Company](https://www.ford.ca/) working on Automation for the Voice Services Team
 
 ## Other interests
 - TKD
