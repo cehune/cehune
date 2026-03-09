@@ -1,10 +1,12 @@
-## Hi I'm Mckale 
+## hey i'm lanying
 
-UWaterloo Mechatronics Engineering 2027 || Interests in backend and graphics
+I like backend and graphics! My aim is to push computation and scalability, and try to milk as much performance as I can out of systems. Whether it be for users or rendering a ton of geometry, I want to build things that are LARGE!!!
+
+UWaterloo Mechatronics Engineering 2027 
 - Incoming SWE Intern at a [BitGo](https://www.bitgo.com/)
-- Prev SWE intern at [Faire](https://www.faire.com/en-ca/) working on backend engineering for the Relationship Growth Team
-- Prev 2x SWE intern at  [General Motors Motor Company](https://www.gm.com/) working on Android for the Radio / Media Infotainment Apps Teams
-- Prev 2x Automation intern at [Ford Motor Company](https://www.ford.ca/) working on Automation for the Voice Services Team
+- Prev intern at [Faire](https://www.faire.com/en-ca/)
+- Prev 2x intern [General Motors Motor Company](https://www.gm.com/)
+- 2x intern at [Ford Motor Company](https://www.ford.ca/)
 
 ## Other interests
 - TKD
