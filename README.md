@@ -2,7 +2,7 @@
 
 I like backend and graphics! My aim is to push computation and scalability, and try to milk as much performance as I can out of systems. Whether it be for users or rendering a ton of geometry, I want to build things that are LARGE!!!
 
-Main stacks worked with are Kotlin or FastAPI based backends, Metal based graphics projects + touched OpenGL, Android based Android projects.
+Main stacks worked with are Kotlin or FastAPI based backends, Metal based graphics projects + touched OpenGL, Android based Android projects. My focus is strong transferable fundamentals, I don't claim to know every language I've touched. I just want to be able to get fast at adjusting to a new one when I need to.
 
 UWaterloo Mechatronics Engineering 2027 
 - Incoming SWE Intern at a [BitGo](https://www.bitgo.com/)
