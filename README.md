@@ -1,4 +1,4 @@
-## hey i'm lanying
+## hi, i'm lanying
 
 I like backend and graphics! My aim is to push computation and scalability, and try to milk as much performance as I can out of systems. Whether it be for users or rendering a ton of geometry, I want to build things that are LARGE!!!
 
