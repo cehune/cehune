@@ -1,19 +1,15 @@
 ## hi, i'm lanying
 
-I like backend and graphics! My aim is to push computation and scalability, and try to milk as much performance as I can out of systems. Whether it be for users or rendering a ton of geometry, I want to build things that are LARGE!!!
+Currently researching light transport rendering at UWaterloo and doing SWE at BitGo. 
 
-Main stacks worked with are Kotlin or FastAPI based backends, Metal based graphics projects + touched OpenGL, Android based Android projects. My focus is strong transferable fundamentals, I don't claim to know every language I've touched. I just want to be able to get fast at adjusting to a new one when I need to.
+I like to grab as much performance from systems as possible. 
+
+Experienced with Kotlin and Typescript for SWE, Metal for Graphics
 
 UWaterloo Mechatronics Engineering 2027 
-- Incoming SWE Intern at a [BitGo](https://www.bitgo.com/)
 - Prev intern at [Faire](https://www.faire.com/en-ca/)
 - Prev 2x intern [General Motors Motor Company](https://www.gm.com/)
 - 2x intern at [Ford Motor Company](https://www.ford.ca/)
-
-## Other interests
-- TKD
-- Piano
-- Illustration
 
 See my artstation [here](https://www.artstation.com/lostherons)
 ![Untitled design(10)](https://github.com/user-attachments/assets/5a319d7f-c454-435b-9290-1b27ccaa2f2a)
